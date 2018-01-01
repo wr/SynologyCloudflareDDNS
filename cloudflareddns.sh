@@ -14,7 +14,7 @@ __RECTYPE__="A"
 __RECID__=""
 __ZONE_ID__=""
 __TTL__="1"
-__PROXY__="true"
+__PROXY__="false"
 
 log() {
     __LOGTIME__=$(date +"%b %e %T")
